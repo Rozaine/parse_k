@@ -21,7 +21,7 @@ headers = {
 
 FORMATTER = logging.Formatter("%(asctime)s — %(name)s — %(levelname)s — %(message)s")
 LOG_FILE = "logs/my_app.log"
-path_to_save_book = 'all_books1'
+path_to_save_book = 'all_books2'
 
 
 def get_console_handler():
